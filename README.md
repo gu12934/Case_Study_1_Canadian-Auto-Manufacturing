@@ -36,6 +36,7 @@ Northline Motors Inc. seeks to expand operations while navigating U.S. tariffs o
 ---
 
 ## 🗂️ File Structure
+```
 Northline-Tariff-CaseStudy/ 
 ├── README.md ├── data/ │   
 └── canada_monthly_car_sales.csv ├── notebooks/ │  
@@ -45,7 +46,7 @@ Northline-Tariff-CaseStudy/
 └── analysis.py ├── presentation/ │   
 └── Northline_Tariff_Impact_Presentation.pptx ├── outputs/ │   └── charts/ │   └── summary_tables/
 ---
-
+```
 ## 🧪 Code & Analysis
 
 Explore the Jupyter notebooks and Python scripts used for:
